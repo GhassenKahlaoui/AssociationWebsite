@@ -4,7 +4,7 @@ td {
 }
 
 
-input[type="submit"] , button {
+button , button {
 padding:20px;
 border: none;
 background-color: #40407a;
@@ -13,8 +13,7 @@ box-shadow: inset 10px 30px 20px green;
 color: white;
 
 }
-
-input[type="submit"]:hover  , button:hover {
+button:hover  , button:hover {
 
 color: pink ;
 
